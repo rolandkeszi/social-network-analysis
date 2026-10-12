@@ -81,3 +81,7 @@ The notebook downloads the SNAP data at run time. The figure from part 1 comes f
 - McAuley, J., & Leskovec, J. (2012). Learning to discover social circles in ego networks. *NIPS*.
 - Kobourov, S. (2012). Spring embedders and force-directed graph drawing algorithms. arXiv:1201.3011.
 - Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: a fully-open index of scholarly works, authors, venues, institutions, and concepts. arXiv:2205.01833.
+
+## License
+
+© 2026 Roland Keszi. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it for non-commercial purposes, provided you credit the author (Roland Keszi) and link to this repository. Third-party datasets keep their own licenses. See [`LICENSE`](LICENSE).
